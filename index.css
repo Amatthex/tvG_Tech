@@ -94,7 +94,7 @@ header {
   gap: 1rem;
 }
 .home {
-  background-image: url("file:///C:/Users/Aptech/Desktop/my%20web/happy%20lady%20sitting%20on%20floor%20with%20laptop.jpg");
+  background-image: url("happy%20lady%20sitting%20on%20floor%20with%20laptop.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
@@ -158,7 +158,7 @@ header {
   color: rgb(2, 166, 70);
 }
 .about{
-  background-image: url("file:///C:/Users/Aptech/Desktop/my%20web/forcontact.png");
+  background-image: url("forcontact.png");
   background-attachment: fixed;
   background-size: cover;
 }
@@ -262,7 +262,7 @@ header {
 /* =====service==  */
 
 .service{
-  background-image: url("file:///C:/Users/Aptech/Desktop/my%20web/WebLaptop.png");
+  background-image: url("WebLaptop.png");
   background-attachment: fixed;
   background-size: cover;
 }
@@ -337,7 +337,7 @@ header {
 /* ====contact-form */
 
 .contact{
-  background-image: url("file:///C:/Users/Aptech/Desktop/my%20web/forcontact.png");
+  background-image: url("forcontact.png");
   background-attachment: fixed;
   background-size: cover;
 }
